@@ -21,3 +21,9 @@ Lecturer and PhD economist Joeri Schasfoort makes thoughtful, balanced, and nuan
 * [Patrick Boyle](https://www.youtube.com/@PBoyle/videos)
 
 Boyle is hedge-fund manager and visiting lecturer at King's College London. His videos cover the gritty complexity of financial trading and market behaviours. For getting a deeper academic understanding, his series _Applied Portfolio Management_ is great.
+
+## Computing and AI
+
+* [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
+
+Previously the director of AI at Tesla, Anrej Karpathy makes incredibly detailed tutorials on implementing AI models from scratch.
