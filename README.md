@@ -12,6 +12,10 @@ Created by Georgia Tech professor Aaron Lanterman, Lantertronics is a deep serie
 
 Moritz Klein shows you how to go about building DIY modules for modular synths. He uses practical examples to explain the workings of circuitry. Great for people a little newer to analogue signal processing.
 
+* [Buchla Tech](https://buchlatech.blogspot.com/)
+
+Personal blog of Mark Verbos, Buchla synth expert and modular synth designer.
+
 ## Economics and Finance
 
 * [Money & Macro](https://www.youtube.com/@MoneyMacro)
